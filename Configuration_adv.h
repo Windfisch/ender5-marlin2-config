@@ -821,7 +821,7 @@
   /**
    * Settings for BLTOUCH Classic 1.2, 1.3 or BLTouch Smart 1.0, 2.0, 2.2, 3.0, 3.1, and most clones:
    */
-
+#define SERVO0_PIN 27
   // Feature: Switch into SW mode after a deploy. It makes the output pulse longer. Can be useful
   //          in special cases, like noisy or filtered input configurations.
   //#define BLTOUCH_FORCE_SW_MODE
